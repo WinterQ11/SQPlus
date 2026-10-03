@@ -1,0 +1,6 @@
+{
+  "name": "SQPlus",
+  "description": "Premium private channel-based file sharing and distribution platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
